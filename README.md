@@ -37,7 +37,7 @@
 
 | Project | Tech Stack | Status |
 |---------|-----------|--------|
-| 📊 Personal Finance Dashboard | Python · Flask · Plotly · SQLite | 🔨 In Progress |
+| 📊 Freelancer Business Hub | Python · FastAPI · JWT · Jinja2 templates · SQLAlchemy · SQLite | 🔨 In Progress |
 | 📈 Data Analysis EDA Portfolio | Pandas · Seaborn · Jupyter | 🔨 In Progress |
 | 🔗 REST API Task Manager | FastAPI · JWT · SQLAlchemy | 📅 Coming Soon |
 | 🤖 ML Price Predictor | Scikit-learn · Streamlit | 📅 Coming Soon |
